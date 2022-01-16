@@ -1,0 +1,42 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "product intelligence system dashboard overview",
+    "line": 1,
+    "id": "product-intelligence-system-dashboard-overview",
+    "tags": [],
+    "uri": "00 Dashboard_overview.feature",
+    "elements": [
+      {
+        "id": "product-intelligence-system-dashboard-overview;user-sees-product-intelligence-system-dashboard",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "user sees product intelligence system dashboard",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "I am logged in as Narsingh Jaiswal",
+            "result": {
+              "status": "passed",
+              "duration": 13532000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 5,
+            "name": "Narsingh Jaiswal sees the dashboard overview",
+            "result": {
+              "status": "passed",
+              "duration": 5351000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
